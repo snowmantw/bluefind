@@ -10,4 +10,7 @@ To find a Bluetooth characteristic automatically for FirefoxOS device:
       .catch(console.error.bind(console))
 
 For more detailed example, see `test/test-main.js` in the repo.
-** WARNING: Code sucks; need a full-rewriting; don't use it if you want a stable product **
+
+**WARNING: Code sucks; need a full-rewriting; don't use it if you want a stable product**
+
+Licensing under Apache2 license (since it's from a MoCo work).
